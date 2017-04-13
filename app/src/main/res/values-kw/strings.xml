@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="button_false_text">fals</string>
+    <string name="button_true_text">reyth</string>
+    <string name="cheat">hyga</string>
+    <string name="point_text">poynt</string>
+</resources>

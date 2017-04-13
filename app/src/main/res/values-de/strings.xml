@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="button_false_text">falsch</string>
+    <string name="button_true_text">wahr</string>
+    <string name="cheat"> betrügen</string>
+    <string name="point_text">punkte</string>
+    <string name="question_five"> Kühe können Treppen steigen, aber nicht nach unten</string>
+</resources>

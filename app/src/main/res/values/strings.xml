@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Quiz App</string>
+    <string name="button_true_text">True</string>
+    <string name="button_false_text">False</string>
+    <string name="question_one" translatable="false">Leon Trotsky acted in a Hollywood movie.</string>
+    <string name="toast_correct" translatable="false">Yay! You got it right!.</string>
+    <string name="toast_incorrect" translatable="false">Unfortunately, that\'s wrong.</string>
+    <string name="toast_are_you_sure" translatable="false">Are you sure you want to cheat?</string>
+    <string name="question_two" translatable="false">Russia created their own communist version of the \'Star Trek\' TV show.</string>
+    <string name="question_three" translatable="false">The color orange is named after the fruit.</string>
+    <string name="question_four" translatable="false">You can legally drink and drive in Mississippi.</string>
+    <string name="question_five">Cows can go up stairs but not down.</string>
+    <string name="question_six" translatable="false">Former President Calvin Coolidge had a pet raccoon.</string>
+    <string name="question_seven" translatable="false">Life has no real meaning.</string>
+    <string name="question_eight" translatable="false">School kills the individuality and spirit of children.</string>
+    <string name="question_nine" translatable="false">Death awaits everyone.</string>
+    <string name="question_ten" translatable="false">Misery greets me at every corner.</string>
+    <string name="cheat">Cheat</string>
+    <string name="test" translatable="false">The Answer is: True</string>
+    <string name="point_text">Points:</string>
+
+
+    <!-- here's your commment -->
+
+
+</resources>
